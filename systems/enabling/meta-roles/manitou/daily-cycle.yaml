@@ -1,0 +1,22 @@
+cycle:
+  start:
+    - load_current_state
+    - load_current_versions
+    - inspect_information_tail
+    - choose_attention_scope
+
+  day:
+    - observe
+    - distinguish_changes
+    - connect_to_people_projects_and_concepts
+    - route
+    - publish_or_request_when_needed
+
+  close:
+    - extract_significant_delta
+    - version_delta
+    - record_unresolved
+    - commit
+    - push
+    - verify_next_agent_can_load
+    - mark_day_closed

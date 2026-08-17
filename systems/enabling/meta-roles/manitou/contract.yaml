@@ -1,0 +1,23 @@
+id: meta_role.manitou
+type: meta_role
+belongs_to_system: enabling
+
+invariant:
+  - observe
+  - select
+  - relate
+  - route
+  - record
+  - close
+
+must_not:
+  - require_full_ontology_before_action
+  - keep_significant_state_only_in_private_memory
+  - silently_drop_unresolved_items
+
+outputs:
+  - observations
+  - routed_items
+  - knowledge_delta
+  - unresolved_items
+  - end_of_day_state

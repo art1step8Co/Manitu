@@ -1,0 +1,7 @@
+{
+  "name": "minimal-knowledge-corpus",
+  "version": "0.1",
+  "status": "candidate",
+  "next_work_area": "scenarios/manitou",
+  "core_goal": "continue work without reconstructing prior context from the author"
+}

@@ -1,0 +1,20 @@
+entity_types:
+  - transcendental
+  - ontological
+  - operator
+  - system
+  - meta_role
+  - role
+  - industry
+  - process
+  - concept
+  - technology
+  - rule
+  - artifact
+  - currency
+  - version
+  - mandate
+  - metric
+  - hypothesis
+  - axiom
+  - theorem

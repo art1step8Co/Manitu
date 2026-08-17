@@ -1,0 +1,40 @@
+concepts:
+  - id: love
+    type: transcendental
+    operational_definition: forbidden
+
+  - id: faith
+    type: transcendental
+    operational_definition: forbidden
+    observable_limit:
+      knowledge_transfer_time: "-> 0"
+
+  - id: wisdom
+    type: transcendental
+    operational_definition: forbidden
+
+  - id: consciousness
+    type: ontological
+    note: "В сознании отражается мир более-менее целиком."
+
+  - id: attention_ray
+    type: ontological
+    note: "Луч внимания выбирает локальный участок мира/сознания."
+
+  - id: attention_reflection
+    type: operator
+    note: "Отражение луча внимания; не смешивать с отражением мира в сознании."
+
+  - id: attention_refraction
+    type: operator
+
+  - id: attention_absorption
+    type: operator
+
+  - id: paradox
+    type: operator
+    note: "Центральная конструкция понимания; удерживает противоположности до появления новой координаты."
+
+  - id: information_tail
+    type: concept
+    note: "Существующее значимое знание/состояние, недоступное следующему субъекту в момент действия."

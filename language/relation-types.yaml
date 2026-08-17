@@ -1,0 +1,18 @@
+relations:
+  - belongs_to_system
+  - instantiates
+  - specializes
+  - operates_in
+  - uses
+  - produces
+  - monitors
+  - routes
+  - maps_to
+  - supersedes
+  - contradicts
+  - enables
+  - requires
+  - triggered_by
+  - paid_from
+  - denominated_in
+  - version_of
